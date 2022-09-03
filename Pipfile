@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+redis = "==3.5.3"
+django-celery-results = "==2.1.0"
+celery = "==5.1.1"
+django-celery-beat = "==2.2.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"

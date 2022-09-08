@@ -8,6 +8,7 @@ redis = "==3.5.3"
 django-celery-results = "==2.1.0"
 celery = "==5.1.1"
 django-celery-beat = "==2.2.0"
+flower = "*"
 
 [dev-packages]
 
